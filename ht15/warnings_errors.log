@@ -1,0 +1,3 @@
+2024-10-24 18:04:11,893 - my_logger - WARNING - Это сообщение уровня WARNING
+2024-10-24 18:04:11,893 - my_logger - ERROR - Это сообщение уровня ERROR
+2024-10-24 18:04:11,893 - my_logger - CRITICAL - Это сообщение уровня CRITICAL
